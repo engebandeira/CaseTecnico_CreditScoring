@@ -1,4 +1,4 @@
-# 🧠 Credit Scoring Model — Code Challenge PicPay
+# 🧠 Credit Scoring Model — Code Challenge
 
 Este projeto foi desenvolvido como parte de um desafio técnico para a posição de Cientista de Dados. O objetivo principal é construir um modelo preditivo de *Credit Scoring*, utilizando técnicas de machine learning para prever inadimplência com base em variáveis mascaradas.
 
